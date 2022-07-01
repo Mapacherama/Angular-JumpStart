@@ -156,5 +156,8 @@
       "prefix": "cm"
     }
   },
-  "defaultProject": "angular-jumpstart"
+  "defaultProject": "angular-jumpstart",
+  "cli": {
+    "analytics": false
+  }
 }
